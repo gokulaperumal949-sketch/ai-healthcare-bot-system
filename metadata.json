@@ -1,0 +1,6 @@
+{
+  "name": "AI Healthcare Bot System",
+  "description": "Intelligent Python & CNN-powered healthcare assistant for symptom risk assessment, medical Q&A, and nearby hospital & clinic discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
